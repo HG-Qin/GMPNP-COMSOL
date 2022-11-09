@@ -117,6 +117,23 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ### step 9. Data output
 
+- set the output mesh
+
+![output_mesh](https://user-images.githubusercontent.com/117021555/200869902-2f5bf08a-9d9a-4847-a17a-e0cf4034f018.png)
+
+- set output parameters
+
+- note: the following graph shows tree kind of parameter,the expression can be seen in output_Au_10mMHClO4_10mM_LiClO4.txt:
+
+1. phiM-j: the HER current density vs electrode potential, x = 0
+
+2. xxx-om: variables in domain, x = output_mesh
+
+3. sigma_s: surface charge density, integral on whole domain
+
+![output para](https://user-images.githubusercontent.com/117021555/200870686-9b47a4c1-c56b-437a-a7d3-800dc095cad9.png)
+
+![rho_s](https://user-images.githubusercontent.com/117021555/200872305-ef55ce06-11e3-41f8-b911-707242957021.png)
 
 
 
