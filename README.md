@@ -123,7 +123,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 - set output parameters
 
-- note: the following graph shows tree kind of parameter,the expression can be seen in output_Au_10mMHClO4_10mM_LiClO4.txt:
+- note: the following graph shows tree kind of parameter, and their expressions can be seen in output_Au_10mMHClO4_10mM_LiClO4.txt:
 
 1. phiM-j: the HER current density vs electrode potential, x = 0
 
