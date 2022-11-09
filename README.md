@@ -60,3 +60,18 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ![Geo1](https://user-images.githubusercontent.com/117021555/200856283-20f42bec-310e-461c-b960-4cd09aa8c08d.png)
 
+![Geo2](https://user-images.githubusercontent.com/117021555/200856827-0c24995f-c6b8-48b8-a926-0df17e6a1730.png)
+
+### step 5. Build Poisson equation
+- rename the General Form PDE Physic as Poisson and Modified NP
+- Set Units and Dependent Variables
+
+![Poisson_name_Units](https://user-images.githubusercontent.com/117021555/200858501-4889f85f-2706-424d-8385-ea04f8dae3e5.png)
+
+- Input Poisson equation
+
+![Poisson_equation](https://user-images.githubusercontent.com/117021555/200859099-c060066f-3468-4aec-adc4-21c2f4533dff.png)
+
+
+
+
