@@ -39,7 +39,7 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 ![Add physics](https://user-images.githubusercontent.com/117021555/200848691-55a4db09-687e-47c6-9aad-8fd064c17669.png)
 
 - click Study
-- Select Stationary
+- select Stationary
 
 ![Study](https://user-images.githubusercontent.com/117021555/200849243-efe4d564-e4cc-4be6-81f0-2ddf61ca10a7.png)
 
@@ -64,11 +64,11 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ### step 5. Build Poisson equation
 - rename the General Form PDE Physic as Poisson and Modified NP
-- Set Units and Dependent Variables
+- set Units and Dependent Variables
 
 ![Poisson_name_Units](https://user-images.githubusercontent.com/117021555/200858501-4889f85f-2706-424d-8385-ea04f8dae3e5.png)
 
-- Input Poisson equation
+- input Poisson equation
 
 ![Poisson_equation](https://user-images.githubusercontent.com/117021555/200859099-c060066f-3468-4aec-adc4-21c2f4533dff.png)
 
@@ -82,6 +82,16 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 
 ### step 6. Build Modified Nernst-Planck equation
+
+- set Units and Dependent Variables
+
+![Modified NP_var](https://user-images.githubusercontent.com/117021555/200862344-48244543-9a39-4ea5-af20-04203ddd730c.png)
+
+- input Modified NP equation
+
+![Modified NP_equation](https://user-images.githubusercontent.com/117021555/200862929-867e4497-24e7-4571-b42e-1f45adaa0af2.png)
+
+- set the initial values
 
 
 
