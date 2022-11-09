@@ -68,7 +68,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ![Poisson_name_Units](https://user-images.githubusercontent.com/117021555/200858501-4889f85f-2706-424d-8385-ea04f8dae3e5.png)
 
-- input Poisson equation
+- input Poisson equation, equation text can be seen in equation_Au_10mMHClO4_10mMLiClO4.txt
 
 ![Poisson_equation](https://user-images.githubusercontent.com/117021555/200859099-c060066f-3468-4aec-adc4-21c2f4533dff.png)
 
@@ -87,7 +87,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ![Modified NP_var](https://user-images.githubusercontent.com/117021555/200862344-48244543-9a39-4ea5-af20-04203ddd730c.png)
 
-- input Modified NP equation
+- input Modified NP equation, equation text can be seen in equation_Au_10mMHClO4_10mMLiClO4.txt
 
 ![Modified NP_equation](https://user-images.githubusercontent.com/117021555/200862929-867e4497-24e7-4571-b42e-1f45adaa0af2.png)
 
