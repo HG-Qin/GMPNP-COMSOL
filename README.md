@@ -30,3 +30,22 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 ## COMSOL tutorial for building GMPNP
 
 
+![Model builder](https://user-images.githubusercontent.com/117021555/200847887-9036ca52-2161-47f5-b8f8-61a80a19095f.png)
+
+### step 1. Bulid the framwork of Model
+
+- click File->New->Select Space Dimension (1D)->Select Physics (two General Form PDE (g))
+
+![Add physics](https://user-images.githubusercontent.com/117021555/200848691-55a4db09-687e-47c6-9aad-8fd064c17669.png)
+
+- click Done.
+- Select Stationary
+
+![Study](https://user-images.githubusercontent.com/117021555/200849243-efe4d564-e4cc-4be6-81f0-2ddf61ca10a7.png)
+
+- click Done. The following is the framwork of the GMPNP model
+
+![Model Builder - new](https://user-images.githubusercontent.com/117021555/200849608-e266789e-59cb-4a44-b2ef-4225de20aa23.png)
+
+
+
