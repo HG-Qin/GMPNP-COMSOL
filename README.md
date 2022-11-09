@@ -93,6 +93,15 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 - set the initial values
 
+![Modified_NP_initial_values](https://user-images.githubusercontent.com/117021555/200865134-136e52e5-1359-4cb8-a5cc-5f8e273e617c.png)
+
+- set the right boundary condition
+
+![Modified_NP_Dbc](https://user-images.githubusercontent.com/117021555/200865693-fd3c1566-f94e-4446-ab82-8a555e582e45.png)
+
+- set the left boundary condition
+
+![Modified_NP_OHP_bc](https://user-images.githubusercontent.com/117021555/200866135-24ac0d1e-bdf1-4038-9208-62ecabcb09b3.png)
 
 
 
