@@ -53,4 +53,7 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ### step 3. Import variables
 
+![var_OHP](https://user-images.githubusercontent.com/117021555/200855128-9d09a78e-d395-464e-8ebc-69acb0d3b885.png)
+![var_Domain](https://user-images.githubusercontent.com/117021555/200855172-8cc1a4c6-05f1-4968-8ba5-d77908658964.png)
+
 
