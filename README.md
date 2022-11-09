@@ -104,5 +104,22 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 ![Modified_NP_OHP_bc](https://user-images.githubusercontent.com/117021555/200866135-24ac0d1e-bdf1-4038-9208-62ecabcb09b3.png)
 
 
+### step 7. set mesh
+
+![mesh](https://user-images.githubusercontent.com/117021555/200867083-0bd624bc-2603-49fd-92fb-cf3bb3cc0738.png)
+
+
+### step 8. set the values of phiM in Study
+
+![Study_phiM](https://user-images.githubusercontent.com/117021555/200867825-158e635d-373b-4578-9c89-80139c29b080.png)
+
+- click compute
+
+### step 9. Data output
+
+
+
+
+
 
 
