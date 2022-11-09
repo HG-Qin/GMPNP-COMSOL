@@ -38,7 +38,7 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ![Add physics](https://user-images.githubusercontent.com/117021555/200848691-55a4db09-687e-47c6-9aad-8fd064c17669.png)
 
-- click Done.
+- click Study
 - Select Stationary
 
 ![Study](https://user-images.githubusercontent.com/117021555/200849243-efe4d564-e4cc-4be6-81f0-2ddf61ca10a7.png)
@@ -47,5 +47,10 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ![Model Builder - new](https://user-images.githubusercontent.com/117021555/200849608-e266789e-59cb-4a44-b2ef-4225de20aa23.png)
 
+### step 2. Import parameters
+
+![input para](https://user-images.githubusercontent.com/117021555/200851487-93c60912-8f96-49a0-b3bd-4a9238457842.png)
+
+### step 3. Import variables
 
 
