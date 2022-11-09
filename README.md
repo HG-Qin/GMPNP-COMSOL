@@ -72,6 +72,18 @@ modeling the cation effect on HER in the solution of 0.01M HClO4 + 10mM LiClO4  
 
 ![Poisson_equation](https://user-images.githubusercontent.com/117021555/200859099-c060066f-3468-4aec-adc4-21c2f4533dff.png)
 
+- set the right boundary condition
+
+![Poisson_Dbc](https://user-images.githubusercontent.com/117021555/200860386-9ecd1801-f75f-41e7-87f8-c7b433e0a8d2.png)
+
+- set the left boundary condition
+
+![Poisson_OHP_bc](https://user-images.githubusercontent.com/117021555/200861196-703f365f-7f0f-4c04-8910-c917cb9d8360.png)
+
+
+### step 6. Build Modified Nernst-Planck equation
+
+
 
 
 
