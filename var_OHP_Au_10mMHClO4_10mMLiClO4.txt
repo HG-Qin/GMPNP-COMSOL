@@ -1,2 +1,0 @@
-r -A*cH*r_H^alpha*exp(-alpha*F_const/(R_const*T0)*(phiM-phi)) ""
-r_H 1/(1-N_A_const*(a_H^3*cH+a_Li^3*cLi+a_ClO4^3*cClO4+a_OH^3*cOH)) ""
