@@ -4,8 +4,7 @@ This repository contains a COMSOL tutorial for building GMPNP
 
 ## The function of the GMPNP model
 
-modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in the solution of 10mM HClO4 + 10mM LiClO4  by solving the general modified Poisson-Nernst-Planck (GMPNP) equation
-
+modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in the solution of 10mM HClO4 + xmM MClO4
 ## Mathematical description of GMPNP model
 
 1) Geometry (1D)
