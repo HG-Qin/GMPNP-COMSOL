@@ -111,6 +111,9 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ### step 8. set phiM value in Study
 
+- phiM for Au: range(-0.3,-0.05,-2)
+- phiM for Ag: range(0.5,-0.05,-1.5)
+
 ![Study_phiM](https://user-images.githubusercontent.com/117021555/200867825-158e635d-373b-4578-9c89-80139c29b080.png)
 
 - click compute
