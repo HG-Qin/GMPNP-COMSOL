@@ -48,6 +48,8 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ### step 2. Import parameters
 
+- The parameter, equations used in this tutorial can be seen under the folder "para_Au_10mMHClO4_10mMLiClO4"
+
 ![input para](https://user-images.githubusercontent.com/117021555/200851487-93c60912-8f96-49a0-b3bd-4a9238457842.png)
 
 ### step 3. Import variables
