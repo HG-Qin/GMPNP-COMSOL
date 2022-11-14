@@ -1,0 +1,27 @@
+# Au 10mM HClO4 + 0.1mMHClO4
+
+range(0,0.5e-9,1e-4)
+
+# Au 10mM HClO4 + 1mMHClO4
+
+range(0,0.48e-9,1e-4)
+
+# Au 10mM HClO4 + 5mMHClO4
+
+range(0,0.52e-9,1e-4)
+
+# Au 10mM HClO4 + 10mMHClO4
+
+range(0,0.48e-9,1e-4)
+
+# Au 10mM HClO4 + 25mM HClO4
+
+range(0,0.55e-9,1e-4)
+
+# Au 10mM HClO4 + 50mM HClO4
+
+range(0,0.49e-9,1e-4)
+
+# Au 10mM HClO4 + 100mM HClO4
+
+range(0,0.49e-9,1e-4)
