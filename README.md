@@ -31,8 +31,6 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 ### PART A: GMPNP for Au 10mM HClO4 + 10mM LiClO4
 
 
-
-
 ![Model builder](https://user-images.githubusercontent.com/117021555/200847887-9036ca52-2161-47f5-b8f8-61a80a19095f.png)
 
 ### step 1. Bulid the framwork of Model
@@ -145,13 +143,24 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ### PART B: GMPNP for Au 10mM HClO4 + xmM LiClO4 (cation concentration effect on HER)
 
-- the GMPNP simulations for Au 10mM HClO4 + xmM LiClO4 can be e
+cation concentration study can be easily realized by modifing the model built in PART A
 
+- step 1: modify the cLi_bulk
+- step 2: keep cClO4_bulk = cH_bulk + cLi_bulk
+- step 3: change the mesh equation (in PART A, step 7). The mesh structure is extremely important to get a convergence result. 
 
-
+The mesh equation for cation concentration study can be seen in Mesh_Au_Cation_Concentration.txt
 
 ### PART C: GMPNP fro Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
+
+cation identity study can be easily realized by modifing the model built in PART A
+
+- step 1: 
+- step 2: keep cClO4_bulk = cH_bulk + cLi_bulk
+- step 3: change the mesh equation (in PART A, step 7). The mesh structure is extremely important to get a convergence result. 
+
+The mesh equation for cation concentration study can be seen in Mesh_Au_Cation_Concentration.txt
 
 
 
