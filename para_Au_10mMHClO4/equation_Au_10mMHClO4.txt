@@ -1,0 +1,36 @@
+#Poisson equation
+------------------------------------------------------
+#GAMMA	
+epsilon0_const*epsilon_r*phix
+
+#f	
+-F_const*(z_H*cH+z_ClO4*cClO4+z_OH*cOH)
+
+#Left boundary of Poisson equation
+#g
+-epsilon0_const*epsilon_r*phiM/xS
+
+#q
+-epsilon0_const*epsilon_r/xS
+-------------------------------------------------------------
+
+#Modified NP
+---------------------------------------------------------------------------
+#GAMMA_cH
+-D_H*cHx-D_H*cH*z_H*F_const/(R_const*T0)*phix-D_H*cH*size_factor
+
+#GAMMA_cClO4
+-D_ClO4*cClO4x-D_ClO4*cClO4*z_ClO4*F_const/(R_const*T0)*phix-D_ClO4*cClO4*size_factor
+
+#GAMMA_cOH
+-D_OH*cOHx-D_OH*cOH*z_OH*F_const/(R_const*T0)*phix-D_OH*cOH*size_factor
+
+#f_cH
+-vel*cHx+kw1-kw2*cH*cOH
+
+#f_cClO4
+-vel*cClO4x
+
+#f_cOH
+-vel*cOHx+kw1-kw2*cH*cOH
+---------------------------------------------------------------------------------------------------
