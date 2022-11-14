@@ -28,6 +28,10 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ## COMSOL tutorial for building GMPNP
 
+### PART A: GMPNP for Au 10mM HClO4 + 10mM LiClO4
+
+
+
 
 ![Model builder](https://user-images.githubusercontent.com/117021555/200847887-9036ca52-2161-47f5-b8f8-61a80a19095f.png)
 
@@ -138,6 +142,15 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 ![output para](https://user-images.githubusercontent.com/117021555/200870686-9b47a4c1-c56b-437a-a7d3-800dc095cad9.png)
 
 ![rho_s](https://user-images.githubusercontent.com/117021555/200872305-ef55ce06-11e3-41f8-b911-707242957021.png)
+
+### PART B: GMPNP for Au 10mM HClO4 + xmM LiClO4 (cation concentration effect on HER)
+
+- the GMPNP simulations for Au 10mM HClO4 + xmM LiClO4 can be e
+
+
+
+
+### PART C: GMPNP fro Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
 
 
