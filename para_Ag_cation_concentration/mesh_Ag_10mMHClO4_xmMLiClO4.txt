@@ -1,0 +1,32 @@
+# Ag 10mM HClO4
+
+range(0,0.1e-9,1e-7), range(1.1e-7,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 0.1mM LiClO4
+
+range(0,0.1e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 1mM LiClO4
+
+range(0,0.1e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 5mM LiClO4
+
+range(0,0.1e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 10mM LiClO4
+
+range(0,0.1e-9,1e-7), range(1.1e-7,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 25mM LiClO4
+
+range(0,0.1e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 50mM LiClO4
+
+range(0,0.12e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
+#Ag 10mM HClO4 + 100mM LiClO4
+
+range(0,0.12e-9,1e-6), range(1.1e-6,1e-8,1e-4)
+
