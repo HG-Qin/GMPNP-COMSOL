@@ -151,7 +151,7 @@ cation concentration study can be easily realized by modifing the model built in
 
 
 - step 2: change mesh equation. The mesh structrue is extremely important to get a convergence result!
-The mesh expression can be seen in para_Au_cation_concentration/
+The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO4_xmMLiClO4.txt
 
 ![Au cLi step22222](https://user-images.githubusercontent.com/117021555/201669617-027433a7-0c60-4cf7-ae2e-2447094fd354.png)
 
