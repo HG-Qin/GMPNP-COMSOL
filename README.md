@@ -119,7 +119,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ![Study_phiM](https://user-images.githubusercontent.com/117021555/200867825-158e635d-373b-4578-9c89-80139c29b080.png)
 
-- click compute
+- click compute. It takes 20 minutes for a laptop with i7-11800H
 
 ### step 9. Data output
 
