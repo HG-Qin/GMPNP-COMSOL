@@ -162,7 +162,7 @@ The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO
 
 
 
-### PART C: GMPNP fro Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
+### PART C: GMPNP for Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
 follow the step in PART A, but use the corresponding parameters, equation, mesh under the folder "Au_cation_identity"
 
@@ -171,7 +171,7 @@ follow the step in PART A, but use the corresponding parameters, equation, mesh 
 ![note cation identity](https://user-images.githubusercontent.com/117021555/201683339-b0d8b58c-15e6-491c-a983-3b784965852b.png)
 
 
-### PART D: GMPNP fro Au 10mM HClO4
+### PART D: GMPNP for Au 10mM HClO4
 
 follow the step in PART A, but use the corresponding parameters, equation, mesh under the folder "para_Au_10mMHClO4"
 
@@ -180,7 +180,7 @@ follow the step in PART A, but use the corresponding parameters, equation, mesh 
 ![PART D](https://user-images.githubusercontent.com/117021555/201690651-50b6dbdb-ee16-42ce-96a0-beb09be5052e.png)
 
 
-### PART E: GMPNP fro Ag 10mM HClO4 + xmM MClO4
+### PART E: GMPNP for Ag 10mM HClO4 + xmM MClO4
 
 similar to PART A-C, but use the parameter, equation, mesh under the folder "para_Ag_cation_concentration" or "para_Ag_cation identity"
 
