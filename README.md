@@ -145,7 +145,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 cation concentration study can be easily realized by modifing the model built in PART A
 
-- step 1: change the parameter files
+- step 1: change the parameters
 
 ![Au cLi Step1](https://user-images.githubusercontent.com/117021555/201667892-e04492ed-dd5d-436b-bb28-74634fba0343.png)
 
@@ -164,19 +164,12 @@ The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO
 
 ### PART C: GMPNP fro Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
+follow the step in PART A, but use the corresponding parameters, equation, mesh under the folder "Au_cation_identity"
 
-cation identity study can be easily realized by modifing the model built in PART A
+- change the name of the dependent variable cLi to corresponding name (cNa, cK, cCs)
 
-- step 1: 
+![note cation identity](https://user-images.githubusercontent.com/117021555/201683339-b0d8b58c-15e6-491c-a983-3b784965852b.png)
 
-
-
-
-
-- step 2: keep cClO4_bulk = cH_bulk + cLi_bulk
-- step 3: change the mesh equation (in PART A, step 7). The mesh structure is extremely important to get a convergence result. 
-
-The mesh equation for cation concentration study can be seen in Mesh_Au_Cation_Concentration.txt
 
 
 
