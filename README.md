@@ -186,6 +186,7 @@ similar to PART A-C, but use the parameter, mesh under the folder "para_Ag_catio
 
 - phiM values for Study is range(0.5,-0.05,-1.5)
 
+![PART_E](https://user-images.githubusercontent.com/117021555/201694747-91ced3bd-8861-425c-911f-e698658e4349.png)
 
 
 - convergence problem: Ag 10mM HClO4 can converge to -1.5V, while Ag 10mM HClO4 + xmM MClO4 can only converge to around -1V
