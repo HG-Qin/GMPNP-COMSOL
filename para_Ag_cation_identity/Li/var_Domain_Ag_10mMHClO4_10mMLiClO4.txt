@@ -1,0 +1,2 @@
+vel -0.51*(x^2)*(omega^3/vis)^(1/2) ""
+size_factor N_A_const*(a_H^3*cHx+a_Li^3*cLix+a_ClO4^3*cClO4x+a_OH^3*cOHx)/(1-N_A_const*(a_H^3*cH+a_Li^3*cLi+a_ClO4^3*cClO4+a_OH^3*cOH)) ""
