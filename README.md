@@ -171,6 +171,28 @@ follow the step in PART A, but use the corresponding parameters, equation, mesh 
 ![note cation identity](https://user-images.githubusercontent.com/117021555/201683339-b0d8b58c-15e6-491c-a983-3b784965852b.png)
 
 
+### PART D: GMPNP fro Au 10mM HClO4
+
+follow the step in PART A, but use the corresponding parameters, equation, mesh under the folder "para_Au_10mMHClO4"
+
+- only three dependent variables in Modified NP
+
+![PART D](https://user-images.githubusercontent.com/117021555/201690651-50b6dbdb-ee16-42ce-96a0-beb09be5052e.png)
+
+
+### PART E: GMPNP fro Ag 10mM HClO4 + xmM MClO4
+
+similar to PART A-C, but use the parameter, equation, mesh under the folder "para_Ag_cation_concentration" or "para_Ag_cation identity"
+
+- phiM values for Study is range(0.5,-0.05,-1.5)
+
+![PART E](https://user-images.githubusercontent.com/117021555/201693748-b65c1eba-dbdf-4d53-be9a-71eab363606c.png)
+
+
+- convergence problem: Ag 10mM HClO4 can converge to -1.5V, while Ag 10mM HClO4 + xmM MClO4 can only converge to around -1V
+
+
+
 
 
 
