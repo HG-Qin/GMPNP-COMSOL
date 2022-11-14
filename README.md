@@ -162,17 +162,17 @@ The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO
 
 
 
-
-The mesh equation for cation concentration study can be seen in Mesh_Au_Cation_Concentration.txt
-
-
-
 ### PART C: GMPNP fro Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
 
 cation identity study can be easily realized by modifing the model built in PART A
 
 - step 1: 
+
+
+
+
+
 - step 2: keep cClO4_bulk = cH_bulk + cLi_bulk
 - step 3: change the mesh equation (in PART A, step 7). The mesh structure is extremely important to get a convergence result. 
 
