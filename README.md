@@ -50,7 +50,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 ### step 2. Import parameters
 
-- The parameter, equations used in this tutorial can be seen under the folder "para_Au_10mMHClO4_10mMLiClO4"
+- The parameter, equations used in PART A can be seen under the folder "para_Au_10mMHClO4_10mMLiClO4"
 
 ![input para](https://user-images.githubusercontent.com/117021555/200851487-93c60912-8f96-49a0-b3bd-4a9238457842.png)
 
@@ -112,7 +112,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 ![mesh](https://user-images.githubusercontent.com/117021555/200867083-0bd624bc-2603-49fd-92fb-cf3bb3cc0738.png)
 
 
-### step 8. set phiM value in Study
+### step 8. set phiM values in Study
 
 - phiM for Au: range(-0.3,-0.05,-2)
 - phiM for Ag: range(0.5,-0.05,-1.5)
@@ -129,7 +129,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 - set output parameters
 
-- note: the following graph shows tree kind of parameter, and their expressions can be seen in output_Au_10mMHClO4_10mM_LiClO4.txt:
+- note: the following graph shows tree kind of parameters, and their expressions can be seen in output_Au_10mMHClO4_10mM_LiClO4.txt:
 
 1. phiM-j: the HER current density vs electrode potential, x = 0
 
@@ -150,7 +150,7 @@ cation concentration study can be easily realized by modifing the model built in
 ![Au cLi Step1](https://user-images.githubusercontent.com/117021555/201667892-e04492ed-dd5d-436b-bb28-74634fba0343.png)
 
 
-- step 2: change mesh equation. The mesh structrue is extremely important to get a convergence result!
+- step 2: change mesh expression. The mesh structrue is extremely important to get a convergence result!
 The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO4_xmMLiClO4.txt
 
 ![Au cLi step22222](https://user-images.githubusercontent.com/117021555/201669617-027433a7-0c60-4cf7-ae2e-2447094fd354.png)
@@ -164,7 +164,7 @@ The mesh expression can be seen in para_Au_cation_concentration/mesh_Au_10mMHClO
 
 ### PART C: GMPNP for Au 10mM HClO4 + 10mM MClO4 (cation identity effect on HER)
 
-follow the step in PART A, but use the corresponding parameters, equation, mesh under the folder "Au_cation_identity"
+follow the step in PART A, but use the corresponding parameters, variables, equations, mesh under the folder "Au_cation_identity"
 
 - change the name of the dependent variable cLi to corresponding name (cNa, cK, cCs)
 
@@ -173,7 +173,7 @@ follow the step in PART A, but use the corresponding parameters, equation, mesh 
 
 ### PART D: GMPNP for Au 10mM HClO4
 
-follow the step in PART A, but use the corresponding parameters, equation, variables, mesh under the folder "para_Au_10mMHClO4"
+follow the step in PART A, but use the corresponding parameters, variables, equations, mesh under the folder "para_Au_10mMHClO4"
 
 - only three dependent variables in Modified NP
 
@@ -182,7 +182,7 @@ follow the step in PART A, but use the corresponding parameters, equation, varia
 
 ### PART E: GMPNP for Ag 10mM HClO4 + xmM MClO4
 
-similar to PART A-C, but use the parameter, mesh under the folder "para_Ag_cation_concentration" or "para_Ag_cation identity"
+similar to PART A-C, but use the parameter, mesh under the folder "para_Ag_cation_concentration" or "para_Ag_cation_identity"
 
 - phiM values for Study is range(0.5,-0.05,-1.5)
 
