@@ -192,6 +192,30 @@ similar to PART A-C, but use the parameter, mesh under the folder "para_Ag_catio
 - convergence problem: Ag 10mM HClO4 can converge to -1.5V, while Ag 10mM HClO4 + xmM MClO4 can only converge to around -1V
 
 
+#### PART F: GMPNP for the relative permittivity varied with cation concentration
+
+It can be realized by modified the GMPNP model with constant relative permittivity.
+
+- delect the epsilon_r(80.1) in Parameters
+
+![PART F parameters](https://user-images.githubusercontent.com/117021555/201814718-6381c4da-dedb-4d85-9193-5ccd8d004aa0.png)
+
+
+- take 10mM HClO4+ 10mM LiClO4 as example, add w_H, w_Li, M_water, epsilon_r_0, epsilon_r_min into Parameters, see equation in PDF file
+
+![PART F parameters add](https://user-images.githubusercontent.com/117021555/201815939-11ebd6b3-a54e-44a3-a1ad-4955bdf18aea.png)
+
+- add the expression of variable epsilon_r in Variables Domain
+
+![PART F variable](https://user-images.githubusercontent.com/117021555/201816951-1cff6cf8-6e3f-4dfa-9c38-7bead0e8238a.png)
+
+- set mesh. the expression can be seen in relative_permittivity_varied_with_cation_concentration/mesh.txt
+
+![PART F mesh](https://user-images.githubusercontent.com/117021555/201817724-6d3c928e-df55-4ac0-a01f-908c6a9f1e92.png)
+
+
+- convergence problems: GMPNP model with variable relative permittivity of water has more poor convergence performance than that with constant relative permittivity
+
 
 
 
