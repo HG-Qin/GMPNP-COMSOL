@@ -145,7 +145,7 @@ modeling the cation effect on HER in a rotation disk electrode (RDE, 1600rpm) in
 
 cation concentration study can be easily realized by modifing the model built in PART A
 
-- step 1: change the parameters
+- step 1: change the parameters, parameter files can be seen in the folder "para_Au_cation_concentration"
 
 ![Au cLi Step1](https://user-images.githubusercontent.com/117021555/201667892-e04492ed-dd5d-436b-bb28-74634fba0343.png)
 
@@ -194,7 +194,7 @@ similar to PART A-C, but use the parameter, mesh under the folder "para_Ag_catio
 
 #### PART F: GMPNP for the relative permittivity varied with cation concentration
 
-It can be realized by modified the GMPNP model with constant relative permittivity.
+It can be realized by modifying the GMPNP model with constant relative permittivity.
 
 - delect the epsilon_r(80.1) in Parameters
 
