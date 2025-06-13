@@ -1,6 +1,7 @@
 # GMPNP-COMSOL
-doi:10.1021/acscatal.2c04875  
-This repository contains a COMSOL tutorial for building GMPNP
+
+This repository contains a COMSOL tutorial to reproduce the GMPNP models in the article "[Quantitative Understanding of Cation Effects on the Electrochemical
+Reduction of CO2 and H+ in Acidic Solution](https://pubs.acs.org/doi/10.1021/acscatal.2c04875?ref=pdf)" 
 
 ## The function of the GMPNP model
 
