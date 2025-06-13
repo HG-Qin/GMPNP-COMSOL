@@ -1,5 +1,5 @@
 # GMPNP-COMSOL
-
+doi:10.1021/acscatal.2c04875
 This repository contains a COMSOL tutorial for building GMPNP
 
 ## The function of the GMPNP model
